@@ -225,15 +225,12 @@ L’optimisation améliore les performances mais des améliorations restent poss
 * Scikit-learn
 * Matplotlib
 * Google Colab
+## 📥 Fichiers
 
----
-## 🧩 Exécution
-### Option 1 : Notebook
-Ouvrir `notebooks/churn_knn.ipynb` et exécuter toutes les cellules.
-### Option 2 : Scripts Python
-  ```bash
-  python src/model_training.py
-```
+- 📁 data/ : dataset utilisé
+- 📁 notebooks/ : analyses et modèles pas à pas
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hdmanoach/churn-knn/blob/main/notebooks/churn+.ipynb)
 
 # 📌 Résumé rapide
 
