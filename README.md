@@ -234,13 +234,6 @@ Ouvrir `notebooks/churn_knn.ipynb` et exécuter toutes les cellules.
   ```bash
   python src/model_training.py
 ```
-# 📌 Améliorations possibles
-Tester d’autres modèles (RandomForest, Logistic Regression, XGBoost)
-
-Équilibrage des classes (SMOTE)
-
-Feature selection
-
 
 # 📌 Résumé rapide
 
