@@ -1,6 +1,7 @@
 # 📝 Rapport de Projet : Prédiction du Churn (k-NN)
 
 ---
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hdmanoach/churn-knn/blob/main/notebooks/churn+.ipynb)
 
 ## 1. Introduction
 
@@ -229,8 +230,6 @@ L’optimisation améliore les performances mais des améliorations restent poss
 
 - 📁 data/ : dataset utilisé
 - 📁 notebooks/ : analyses et modèles pas à pas
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hdmanoach/churn-knn/blob/main/notebooks/churn+.ipynb)
 
 # 📌 Résumé rapide
 
